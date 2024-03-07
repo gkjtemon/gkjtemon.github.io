@@ -268,7 +268,10 @@ button {
 .banner_section {
     width: 100%;
     float: left;
+<<<<<<< HEAD
+=======
     background-image: url(../images/banner-bg.png);
+>>>>>>> 1e6f1083168cdafd0739766df01c75a6d1b03300
     height: auto;
     background-size: 100%;
     padding: 10px 0px 25px 0px;
@@ -333,13 +336,21 @@ button {
 #main_slider a.carousel-control-next {
     left: 0px;
     right: -60px;
+<<<<<<< HEAD
+    top: 600px;
+=======
     top: 440px;
+>>>>>>> 1e6f1083168cdafd0739766df01c75a6d1b03300
 }
 
 #main_slider a.carousel-control-prev {
     left: -60px;
     right: 0px;
+<<<<<<< HEAD
+    top: 600px;
+=======
     top: 440px;
+>>>>>>> 1e6f1083168cdafd0739766df01c75a6d1b03300
 }
 
 #main_slider .carousel-control-next,
